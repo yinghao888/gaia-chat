@@ -14,7 +14,8 @@
 官网：[ABC Proxy](https://www.abcproxy.com/?code=RYPC0RI9)
 
 价格：75 元/10G，360 元/50G
-请联系作者购买
+
+请联系作者电报购买    
 
 动态代理效果更佳，推荐购买使用。
 
