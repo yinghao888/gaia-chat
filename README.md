@@ -35,3 +35,35 @@
 - 检查 Python 3 是否已安装：
   ```bash
   python3 --version
+
+- 如果未安装，使用 Homebrew 安装：
+  ```bash
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  brew install python
+
+### 3. 安装依赖
+- 确保 pip3 可用：
+  ```bash
+  python3 -m ensurepip --upgrade
+
+  - 安装所需库：：
+  ```bash
+  pip3 install requests
+  pip3 install PySocks  # 用于SOCKS5代理支持
+  pip3 install pytz     # 用于北京时间支持
+
+### 4. 保存并编辑脚本
+- 将代码保存为 gaia_chat.py（如果文件名不同，请调整）。
+- 使用 nano 编辑文件：
+  ```bash
+  nano gaia_chat.py
+- 保存并退出：按 Ctrl+X，输入 Y，然后按回车。
+
+### 5.赋予执行权限
+- 给脚本赋予可执行权限
+ ```bash
+ chmod +x gaia_chat.py
+
+### 6. 运行脚本
+ ```bash
+ ./gaia_chat.py
