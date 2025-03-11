@@ -61,9 +61,9 @@
 
 ### 5.赋予执行权限
 - 给脚本赋予可执行权限
- ```bash
- chmod +x gaia_chat.py
+  ```bash
+  chmod +x gaia_chat.py
 
-### 6. 运行脚本
+### 6.执行脚本
  ```bash
  ./gaia_chat.py
