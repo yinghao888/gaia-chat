@@ -4,6 +4,8 @@
 ---
 
  🌹作者TG：@yinghao66     【BUG反馈】    【动态住宅代理购买】 
+
+ 加入   gaias.gaia.domains     每天躺赚10万分
  
  支持的运行环境 macOS Ubuntu WSL
 
