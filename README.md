@@ -12,7 +12,9 @@
 需要手动修改API和代理 可以运行在macos ubuntu wsl上
 
 注意：该项目需要消耗代理较大 没有动态代理的可以使用abc代理
+
 https://www.abcproxy.com/?code=RYPC0RI9
+
 动态代理  75元/10G    360元/50G
 
 
