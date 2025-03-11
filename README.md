@@ -1,7 +1,10 @@
-# 🌟 Gaia Chat 全自动聊天项目 作者TG:@yinghao66
+# 🌟 Gaia Chat 全自动聊天项目 
 
-这是一个通过 SOCKS5 代理进行并发聊天的 Python 项目，支持多线程请求（默认 60 线程）、每分钟统计、成功率进度条，并以北京时间显示日志。
+这是一个通过 SOCKS5 代理进行并发聊天的 Python 项目，支持多线程请求、每分钟统计、成功率进度条，并以北京时间显示日志。
 ---
+
+ 🌹作者TG：@yinghao66 BUG反馈 动态住宅代理购买 
+ 
  支持的运行环境 macOS Ubuntu WSL
 
  注意事项
@@ -77,5 +80,5 @@
   chmod +x gaia_chat.py
 
 ### 6.执行脚本
- ```bash
+  ```bash
   ./gaia_chat.py
