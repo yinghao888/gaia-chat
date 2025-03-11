@@ -4,10 +4,10 @@
 
 小白运行指南
 1:打开gaia_chat.py 修改API、问题和动态代理（有附带题库）
-2:安装 Python 3：检查版本：:```python3 --version```
-如果需要安装，使用 Homebrew：```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew install python```
-3:安装依赖：确保 pip3 可用 ```python3 -m ensurepip --upgrade```
+2:安装 Python 3：检查版本：:```python3 --version````print("Hello, GitHub!")`
+如果需要安装，使用 Homebrew：/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python
+3:安装依赖：确保 pip3 可用 print("python3 -m ensurepip --upgrade")`
  安装库：```pip3 install requests
 pip3 install PySocks  # 用于SOCKS5代理支持
 pip3 install pytz     # 用于北京时间支持
@@ -26,6 +26,9 @@ pip3 install pytz     # 用于北京时间支持
 ```./gaia_chat_v3.py```
 
 需要手动修改API和代理 可以运行在macos ubuntu wsl上
+
+`print("Hello, GitHub!")`
+
 
 注意：该项目需要消耗代理较大 没有动态代理的可以使用abc代理
 
