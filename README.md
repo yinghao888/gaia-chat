@@ -3,7 +3,7 @@
 这是一个通过 SOCKS5 代理进行并发聊天的 Python 项目，支持多线程请求、每分钟统计、成功率进度条，并以北京时间显示日志。
 ---
 
- 🌹作者TG：@yinghao66 BUG反馈 动态住宅代理购买 
+ 🌹作者TG：@yinghao66     【BUG反馈】    【动态住宅代理购买】 
  
  支持的运行环境 macOS Ubuntu WSL
 
